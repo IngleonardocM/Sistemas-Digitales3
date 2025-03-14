@@ -30,3 +30,6 @@ Si el usuario quiere eliminar un contacto, el programa le pedirá el número de 
 Ejemplo: Si el usuario elimina el número 3212333333, el contacto con ese número desaparecerá de la lista.
 
 Si el usuario elige la opción de salir, el programa mostrará un mensaje de despedida y cierra el programa.
+
+[IMAGENE1](/Laboratorio1/IMAGENES/LABPARTE1.png)
+[IMAGENE2](/Laboratorio1/IMAGENES/LABPARTE2.png)
