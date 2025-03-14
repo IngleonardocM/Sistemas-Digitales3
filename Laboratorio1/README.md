@@ -1,6 +1,4 @@
-# elkfsjklsfdlklk
-
-| Integrantes | cuenta GitHub |
-|-|-|
-| Leonardo | [Leonardo](https://github.com/IngleonardocM) |
- ajfklahfklnakklasjflk
+# LABORATORIO I
+## Integrantes
+[David Leonardo Castaño Madrigal](https://github.com/IngleonardocM) 
+ 
